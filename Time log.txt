@@ -29,6 +29,15 @@ December 4:
 December 5:
 3 hr (Fixed final issues, added additional rooms, set up manual and github)
 
+Chase W:
+1 hour brainstorm (lab)
+1 hour downloading Unity
+1 hour figuring out how to set up Unity Hub
+2 hours following flappy bird tutorial
+2 hours writing first version of the room generation
+2 hour watching YouTube videos on creating levels in Unity
+1 hour mapping demo levels
+
 Group Meeting: Novemeber 1, 11:30-12:30
 Jackson, David, and Liam met up to establish the unity hub and make sure that everyone could access the project. David was assigned to work on player movement,
 Jackson was assgined to work on platform creation, Chase was assigned enemy creation, and Liam was assigned sprite creation
