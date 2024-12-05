@@ -41,3 +41,12 @@ Chase W:
 Group Meeting: Novemeber 1, 11:30-12:30
 Jackson, David, and Liam met up to establish the unity hub and make sure that everyone could access the project. David was assigned to work on player movement,
 Jackson was assgined to work on platform creation, Chase was assigned enemy creation, and Liam was assigned sprite creation
+
+Liam L: 
+1 hour brainstorn (lab)
+1 hour downloading Unity
+1 hours figuring out how to set up Unity Hub
+2 hours of following Flappy Bird tutorial
+1.5 hour of drawing sprites for platform and robot
+11 hours of working with Jackson S on discord
+3 hours of working on making more rooms, and fixing the rooms list to have the correct amount of items
