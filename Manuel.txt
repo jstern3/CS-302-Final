@@ -1,0 +1,17 @@
+How To Play:
+Simply clicking on the exe file in this git hub should allow you to play our game
+
+Controls:
+Use left and right arrow keys to move
+Use the up arrow to jump
+Hold the down arrow when on a thin platform to drop through
+Press the spacebar to shoot bullets
+
+Bugs/Issues:
+You can fall into the void if you move left in the starting room.
+Pressing up while inside, or pressing up against a platform will let you double jump in mid air.
+Enemies not killed are currently not deleted.
+Game currently goes on forever, intended to end after around 15 rooms, but this is currently not implemented.
+
+Additional Info:
+The code that contains our CS302 data structure is RoomGenerator.cs
