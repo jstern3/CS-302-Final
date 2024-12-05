@@ -11,10 +11,24 @@ Hours log: David F:
 1 hour (adding shooting point, ammo count and UI elements)
 
 Jackson S:
+September 23:
 1 hour brainstorm(lab)
 1 hour (Downloading Unity)
-3 hours (Following Unity Tutorials)
+September 29:
+3 hours (Following Unity Tutorials and learning)
+Novemeber 1:
 1 hour (Meeting and setting up Unity Hub)
+Novemeber 4:
 30 min (Trying to add Chase and Liam to Unity Hub)
+November 14:
 30 min (Helping Liam access the Unity Hub)
+November 24:
 1 hr 30 min (Added enemy patrol and one way platform)
+December 4:
+12 hr (Coded most of the game)
+December 5:
+3 hr (Fixed final issues, added additional rooms, set up manual and github)
+
+Group Meeting: Novemeber 1, 11:30-12:30
+Jackson, David, and Liam met up to establish the unity hub and make sure that everyone could access the project. David was assigned to work on player movement,
+Jackson was assgined to work on platform creation, Chase was assigned enemy creation, and Liam was assigned sprite creation
