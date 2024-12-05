@@ -15,3 +15,4 @@ Game currently goes on forever, intended to end after around 15 rooms, but this 
 
 Additional Info:
 The code that contains our CS302 data structure is RoomGenerator.cs
+We used the built in unity version control instead of GitHub to facilitate collaboration, a photo has been provided on GitHub to show proof of this
