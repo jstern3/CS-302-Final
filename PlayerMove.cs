@@ -2,7 +2,7 @@
 //repsonsible for controlling the players movement
 //help from this yt tutorial - https://www.youtube.com/watch?v=XtQMytORBmM&t=838s
 
-
+//player assets (skins) from - https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896
 
 using System.Collections;
 using System.Collections.Generic;
