@@ -2,13 +2,13 @@ Hours log: David F:
 1 hour (lab) 
 1 hour (Downloading and installing unity) 
 1.5 hours (coding and making things move) 
-1 hour (Following online Unity tutorial)
+2 hour (Following online Unity tutorial)
 
 2 hours (setting up final project repo)
 1 hour (fighting unity hub to let me add other people to it)
-1 hour (getting movement and good jumping)
+1.5 hour (getting movement and good jumping)
 45 min (adding a player skin, gun, and shooting)
-1 hour (adding shooting point, ammo count and UI elements)
+2 hour (adding shooting point, ammo count and UI elements)
 
 Jackson S:
 September 23:
