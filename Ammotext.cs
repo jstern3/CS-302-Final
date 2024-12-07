@@ -1,3 +1,7 @@
+//David Floyd    
+//used a tutorial on Unity HUDs - https://www.youtube.com/watch?v=suEV612c7XU&t=38s
+//Keeps track of how many bullets the player has left in their clip.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,14 +22,14 @@ public class AmmoText : MonoBehaviour
             shoot = player.GetComponent<Shoot>();
         }
 
-        if (shoot == null || text == null)
+        if (shoot == null || text == null) //debugging stuff
         {
             Debug.LogError("Shoot script or Text reference is missing. Ensure Player has the Shoot script and Text is assigned in the Inspector.");
             enabled = false; // Disable the script if dependencies are missing.
             return;
         }
 
-        UpdateAmmoText();
+        UpdateAmmoText(); //if everything went well
     }
 
     void Update()
@@ -39,6 +43,6 @@ public class AmmoText : MonoBehaviour
     public void UpdateAmmoText()
     {
         lastAmmoCount = shoot.bulletsleft;
-        text.text = $"{lastAmmoCount} / 35";
+        text.text = $"{lastAmmoCount} / 35"; //player has a clip limit of 35
     }
 }
