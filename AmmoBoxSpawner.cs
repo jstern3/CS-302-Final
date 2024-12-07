@@ -1,3 +1,6 @@
+//David Floyd
+//Simple program to spawn in ammo boxe pre-fabs at a few fixed locations
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
