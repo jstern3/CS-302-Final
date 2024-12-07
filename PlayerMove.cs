@@ -1,9 +1,16 @@
+//David Floyd
+//repsonsible for controlling the players movement
+//help from this yt tutorial - https://www.youtube.com/watch?v=XtQMytORBmM&t=838s
+
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    //set params
     [SerializeField]private float speed;
     [SerializeField] private float jumpHeight;
     private Rigidbody2D body;
@@ -19,6 +26,7 @@ public class PlayerMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //connecting this object with logic
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicManagerScript>();
     }
 
@@ -55,6 +63,7 @@ public class PlayerMove : MonoBehaviour
         grounded = false;
     }
 
+    //make sure the player cant fly. needs to be updated to work better with platforms
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Ground")
