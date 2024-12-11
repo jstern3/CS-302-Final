@@ -9,6 +9,7 @@ Hours log: David F:
 1.5 hour (getting movement and good jumping)
 45 min (adding a player skin, gun, and shooting)
 2 hour (adding shooting point, ammo count and UI elements)
+8 hours (finishing touches and going insane)
 
 Jackson S:
 September 23:
